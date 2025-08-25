@@ -1,47 +1,21 @@
-# 👋 ¡Hola! Soy Hephest0x
+# I'm Hephest0x
 
-[https://unavatar.com](https://unavatar.io/github/Hephest0x)
+<p align="center" width="300">
+   <img align="center" width="200" src="https://unavatar.io/github/Hephest0x" />
+</p>
 
-🔐 Amante de la **Ciberseguridad**  
-💻 Desarrollador Web & Móvil | Explorador del mundo digital  
-🌍 "Intentando crear de internet un lugar más seguro aportando mi granito de arena en el mundo de la ciberseguridad"
-
----
-
-## 🚀 Sobre mí
-- 🔎 Apasionado por aprender y experimentar en el área de **ciberseguridad ofensiva y defensiva**.  
-- 💡 Buscando siempre mejorar mis habilidades y compartir conocimiento.  
-- 🛠️ Con experiencia en **React, Next.js, React Native, Kotlin, Compose y Expo**.  
-- 📚 En constante aprendizaje sobre **análisis de vulnerabilidades, pentesting y seguridad de aplicaciones**.  
-
----
-
-## 🛡️ En qué estoy trabajando
-- 🔭 Proyectos relacionados con **seguridad de aplicaciones**.  
-- 📂 Creación de herramientas y experimentos en **seguridad informática**.  
-- 🌱 Aprendiendo más sobre **red team, hardening y detección de amenazas**.  
-
----
-
-## 🧰 Tecnologías y Herramientas
-- **Lenguajes:** JavaScript, TypeScript, Kotlin, Python, SQL  
-- **Frameworks y Librerías:** React, Next.js, React Native, Expo, Jetpack Compose  
-- **Ciberseguridad:** Linux, Wireshark, Burp Suite, Nmap, Metasploit  
-- **Otros:** Git, Docker, Postman  
-
----
-
-## 📫 Cómo contactarme
-- ✉️ [Tu correo aquí]  
-- 💼 [LinkedIn]  
-- 🌐 [Tu portafolio o web personal si tienes]  
-
----
-
-⭐ *Si compartes mi pasión por la ciberseguridad, ¡conectemos y hagamos de internet un lugar más seguro!*
-
-
-![GitHub Stats](https://streak-stats.demolab.com?user=Hephest0x&theme=midnight-purple&hide_border=true)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Hephest0x)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Hephest0x)
+
+---
+
+<p>Trying to make the Internet a safer place by contributing my grain of sand in the world of cybersecurity</p>
+<p></p>サイバーセキュリティの世界に少しでも貢献することで、インターネットをより安全な場所にすることを目指しています。</p>
+
+---
+
+
+![Hephest0x's Stats](https://github-readme-stats.vercel.app/api?username=Hephest0x&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![Hephest0x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephest0x&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
